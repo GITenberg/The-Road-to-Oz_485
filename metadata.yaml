@@ -1,0 +1,33 @@
+_repo: The-Road-to-Oz_485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Road to Oz
+url: http://www.gutenberg.org/ebooks/485
